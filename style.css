@@ -1227,6 +1227,12 @@ padding: 1rem 0;
 +++++++++++++++++++++++++++++++*/
 
 
+@media screen and (max-width:1300px) {
+  .about-menu {
+    width: 35%;
+  }
+}
+
 @media screen and (max-width:600px) {
 
   html {
@@ -1322,8 +1328,3 @@ padding: 1rem 0;
   }
 }
 
-@media screen and (max-width:1300px) {
-  .about-menu {
-    width: 35%;
-  }
-}
